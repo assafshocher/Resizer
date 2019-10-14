@@ -16,7 +16,7 @@ This is one of the main reasons for creating this as this consistency is often c
 
 4. You can resize N-D images.
 
-5. Some existing packages return misaligned results. it is visually not apparent but can cause great damage to image enhancement tasks.
+5. Some existing packages return misaligned results. it is visually not apparent but can cause great damage to image enhancement tasks.(https://hackernoon.com/how-tensorflows-tf-image-resize-stole-60-days-of-my-life-aba5eb093f35)
 
 6. You can specify a list of scale-factors to resize each dimension using a different scale-factor.
 
