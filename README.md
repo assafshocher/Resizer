@@ -1,3 +1,4 @@
+# Deprecated! see ResizeRight: https://github.com/assafshocher/ResizeRight
 # Resizer
 #### The only way to resize images
 
